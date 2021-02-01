@@ -1,3 +1,1 @@
-first text file
-
-testing git rm
+first text testing
